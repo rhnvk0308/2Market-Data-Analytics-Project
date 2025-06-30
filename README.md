@@ -1,5 +1,6 @@
 # 2Market-Data-Analytics-Project
 Final analytics project for a global supermarket, completed as part of a postgraduate data analytics module. The goal was to explore customer demographics, product spending, and the effectiveness of advertising campaigns using real-world business data.
+Link to Presentation: https://drive.google.com/file/d/1cT7OhBhlQVwXuF3Lifk_3CG0mBC8Bhkx/view?usp=drive_link
 Project Overview:
 This project supports strategic decision-making at 2Market, a multinational supermarket chain. The analysis was conducted using Excel, SQL, and Tableau, and includes:
 
