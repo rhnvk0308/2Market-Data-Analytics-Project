@@ -13,6 +13,7 @@ Three interactive dashboards built in Tableau
 8-minute MP4 presentation walkthrough of the dashboards
 
 Business Objectives:
+
 Understand customer demographics and segmentation
 
 Evaluate advertising channel effectiveness
@@ -22,6 +23,7 @@ Analyze spending patterns across product categories
 Identify insights to improve campaign targeting and revenue strategy
 
 Tools & Technologies Used:
+
 Excel – data cleaning, exploratory analysis
 
 SQL (PostgreSQL) – joins, filters, segment-level analysis
